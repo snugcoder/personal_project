@@ -1,0 +1,10 @@
+
+*{
+    margin: auto;
+    padding: 50;
+    background-color: beige;
+}
+.text{
+    font-weight: 3em;
+    opacity: 0;
+}
